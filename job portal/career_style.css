@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.image{
+    vertical-align: middle;
+    width: 100%;
+    height: 294px;
+    z-index: -1;
+    opacity: 0.7;
+    /* position: fixed; */
+}
+
+.container{
+    position: relative;
+}
+
+#title{
+    position: absolute;
+    top: -284px;
+  
+}
+
+.container h1 {
+    font-size: 100px;
+}
+
+.company{
+    background-color: rgb(186, 182, 182);
+    display: inline-block;
+    padding: 11px;
+    margin: 19px;
+    box-shadow: 5px 5px 10px black;
+    position: relative;
+    width: 45%;
+}
+
+#heading{
+    font-size: 31px;
+    margin-bottom: 3px;
+    text-align: center;
+}
+.content table i{
+    color: green;
+  
+}
+
